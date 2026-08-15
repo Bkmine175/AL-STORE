@@ -2,7 +2,8 @@
   "apps_names": [
     "Yacine TV",
     "Spotify",
-    "Facebook Lite"
+    "Facebook Lite",
+    "VRadio"
   ],
   "packages": [
     "com.yacine.tv",

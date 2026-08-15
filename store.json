@@ -11,6 +11,12 @@
       "version": "1.0",
       "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Androidauto.apk"
+    },
+    {
+      "name": "YouTube Music",
+      "version": "1.0",
+      "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/b9d93025ccddc34ae16fd1e08b243b7a6c14dcc8/icon_youtubemusic.png",
+      "url": "https://download1642.mediafire.com/2s35661a3tkg6iQGZ9X5m6e40oB2z87xXb8S6p7U5mXb_p2u5a2s3d4f5g6h7j8k9l/f8bmx9c916a1npc/youtube.music.apk"
     }
   ]
 }

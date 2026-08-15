@@ -1,9 +1,7 @@
 {
   "apps": [
     {
-      "name": "Yacine TV",
-      "version": "3.1",
-      "icon": "https://github.com/Bkmine175/AL-STORE/raw/03e16ce8d50b1fe36f2445ac7db584e170a79144/icon_yacinetvblack.png",
+      "name": "Test",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/main/Yacine_TV_3.1_Black%20(2).apk"
     }
   ]

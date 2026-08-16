@@ -1,10 +1,16 @@
 {
   "apps": [
     {
-      "name": "Yacine TV",
+      "name": "Yacine TV Black",
       "version": "3.1",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/03e16ce8d50b1fe36f2445ac7db584e170a79144/icon_yacinetvblack.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/main/Yacine_TV_3.1_Black%20(2).apk"
+    },
+    {
+      "name": "YacineTV Gold",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3a4d2164d0af72c1b980500aab4e295f044f089a/icon_yacinetvgold.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Yacine_TVGold.apk"
     },
     {
       "name": "Android Auto",
@@ -12,10 +18,34 @@
       "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Androidauto.apk"
     },
+      {
+      "name": "AutoKit",
+      "version": 21.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_autokit.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/autokit.apk"
+    },
+      {
+      "name": "Algérien Radio",
+      "version": 21.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_radioalgerien.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/radio.apk"
+    },
+      {
+      "name": "VRadio",
+      "version": 6.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_vradio.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/VRadio.apk"
+    },
+    {
+      "name": "Dab Radio",
+      "version": 4.1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/f8ae8e1dc4eff3d9f11485e407587b332970c05a/icon_dabradio.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Radio_DAB.apk"
+    },
     {
       "name": "YouTube Music",
       "version": "1.0",
-      "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/b9d93025ccddc34ae16fd1e08b243b7a6c14dcc8/icon_youtubemusic.png",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/63dbe53b356daf0cbf227eef8e4ea77529a383ea/icon_YouTubeMusic_new.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.0.0/youtube.music.apk"
     },
     {
@@ -23,6 +53,30 @@
       "version": "1.2",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
+    },
+    {
+      "name": "Micro G",
+      "version": "2.2.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/6666a96229a0686a12b58c235fe67c20fbafd35b/icon_MicroG.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.3.4/gms.apk"
+    },
+    {
+      "name": "Maps",
+      "version": "26.1.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/1bcea0f4ed6cad3278651edd2fc247b448a41c38/icon_maps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.2.3.4.5/Maps.apk"
+    },
+    {
+      "name": "MAPS ME",
+      "version": "16.4.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/1bcea0f4ed6cad3278651edd2fc247b448a41c38/icon_mapsme.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.6/mapsme.apk"
+    },
+    {
+      "name": "Volume booster",
+      "version": "3.4.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/c4ec223e68c2036f8aaac389ad10acb414975cd4/icon_volumebooster.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk
     }
   ]
 }

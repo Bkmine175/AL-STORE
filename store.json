@@ -76,7 +76,55 @@
       "name": "Volume booster",
       "version": "3.4.5",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/c4ec223e68c2036f8aaac389ad10acb414975cd4/icon_volumebooster.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk
+    },
+    {
+      "name": "Drama Live",
+      "version": "13.0.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_daramalive.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V23/drama-live-13-0-3.apk"
+    },
+       {
+      "name": "Neo 4k Pro",
+      "version": "3.8",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.pngg",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2638/Neo4KPro.apk"
+    },
+    {
+      "name": "Neo 4kp",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V52838/Neo4Kp.apk"
+    },
+    {
+      "name": "Neo 4kp",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_new4kp.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V538/Neo4Kp.apk"
+    },
+    {
+      "name": "Reezn",
+      "version": "2.0.16",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_reezn.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V3.46/Reezn.apk"
+    },
+    {
+      "name": "KD max",
+      "version": "1.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/icon_kdmax2.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2238/kdmax1.5.apk"
+    },
+    {
+      "name": "KDmax silver",
+      "version": "3.1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/iconkdmaxsilver.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2.5/KDmaxSilver.apk"
+    },
+    {
+      "name": "Lynx",
+      "version": "1.21",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/icon_lynx.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V4.69/lynx.apk"
     }
   ]
 }

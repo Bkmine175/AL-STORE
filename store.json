@@ -79,6 +79,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.6/mapsme.apk"
     },
     {
+      "name": "Organic Maps",
+      "version": "1.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/4e7e0f4ec2286e4503573fc2ec703755c6c01e22/incon_organicmaps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.4.7/organicmaps.apk"
+    },
+    {
       "name": "Volume booster",
       "version": "3.4.5",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/c4ec223e68c2036f8aaac389ad10acb414975cd4/icon_volumebooster.png",

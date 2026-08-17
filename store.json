@@ -84,6 +84,18 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/c4ec223e68c2036f8aaac389ad10acb414975cd4/icon_volumebooster.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk"
     },
+    {
+      "name": "VLC",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_vlc.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.4.5/vlc.apk"
+    },
+    {
+      "name": "Mx Player",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_mxplayer.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.5.7.4/mxplayer.apk"
+    },
         {
       "name": "Yacine TV Black",
       "version": "3.1",
@@ -161,6 +173,12 @@
       "version": "3.0.1",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_orca.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.3/Orca.Pro+_3.0.1.0-plus_apkcombo.com.apk"
+    },
+        {
+      "name": "Netfly",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a45438bf6f10381d07d57d979a5283d9e6da15d2/icon_netfly.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.3.4/NETFLY.apk"
     },
     {
       "name": "IPTV Smarters Pro",

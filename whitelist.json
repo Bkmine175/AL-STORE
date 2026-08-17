@@ -7,7 +7,7 @@
   "packages": [
     "com.yacine.tv",
     "com.spotify.music",
-        "com.here.app.maps",
+    "com.here.app.maps",
     "app.organicmaps",
     "com.google.android.apps.maps",
     "net.osmand",
@@ -28,8 +28,8 @@
     "com.evo.gpscompassnavigator",
     "com.app.realtimetracker",
     "io.dcloud.UNI0BBEF11",
-    "com.bilang042.aureseyes"
-        "com.ni.albradio",
+    "com.bilang042.aureseyes",
+    "com.ni.albradio",
     "com.radioplayer.mobile",
     "br.com.audiobras.digital",
     "com.appmind.radios.au",
@@ -39,7 +39,7 @@
     "com.ex.dabplayer.pad",
     "com.ex.dabplayer.pad",
     "de.draisberghof.dabusb",
-    "designatualcance.dabradio"
+    "designatualcance.dabradio",
     "com.microntek.dab",
     "com.radiosonline.radiofmuk",
     "com.mygoldapps.dabradioappforandroidfree",
@@ -63,7 +63,7 @@
     "com.hv.replaio",
     "au.com.radioapp",
     "com.mygoldapps.radiodaparaibafmonlinegold",
-    "com.fansipaninc.radioswitzerland"
+    "com.fansipaninc.radioswitzerland",
     "com.dabappfreemium",
     "com.dab.loyalty",
     "dab.radio",
@@ -106,7 +106,7 @@
     "com.radiofmapp.radiodeutschland",
     "com.audio.dabipc",
     "com.appone.radiodanmark",
-    "com.digitalradio.digitaldemo"
+    "com.digitalradio.digitaldemo",
     "com.madarsoft.quran",
     "com.moslay",
     "com.madarsoft.nabaa",
@@ -150,7 +150,7 @@
     "free.mediaplayer.mp3.audio.music",
     "com.bassbooster.equalizer.virtrualizer.pro",
     "volumebooster.sound.loud.speaker.booster",
-    "com.deplike.andrig"
+    "com.deplike.andrig",
     "com.soundboost2.ai",
     "volumebooster.sound.loud.speaker.booster",
     "volumebooster.soundspeaker.louder",
@@ -198,7 +198,7 @@
     "app.revanced.android.gms",
     "com.nst.iptvsmarterstvbox",
     "ver3.ycntivi.off",
-    "com.jvckenwood.tlink"
+    "com.jvckenwood.tlink",
     "app.revanced.android.youtube",
     "freetube.com",
     "com.salat.gsplit",
@@ -351,7 +351,7 @@
     "net.banihani.adhkar",
     "com.hisn.almuslim",
     "com.quran.newdays.azkaralmuslim",
-    "com.mawasy.athkar_app"
+    "com.mawasy.athkar_app",
     "com.android.chrome",
     "org.mozilla.firefox",
     "com.microsoft.emmx",
@@ -379,7 +379,7 @@
     "com.spotify.music",
     "com.rmedia.rplayer",
     "org.drive_hunter",
-    "com.sneig.livedrama"
+    "com.sneig.livedrama",
     "com.whatsapp",
     "com.geely.auto.music",
     "com.drama.mp4",
@@ -418,12 +418,10 @@
     "com.hdobox",
     "com.todtv.tod",
     "sasha.zay.blackscreen",
-    "org.schabi.newpipe"
+    "org.schabi.newpipe",
     "com.google.android.apps.maps",
     "com.google.android.gm",
-    "com.google.android.apps.photos"
+    "com.google.android.apps.photos",
     "com.finish.lite"
   ]
 }
-
-

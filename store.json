@@ -91,6 +91,30 @@
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk"
     },
     {
+      "name": "WhatsApp",
+      "version": "13.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33d6ef304b013651d521482538d05d4f023efc4e/icon_whatpas.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.4.2/WhatsApp.apk"
+    },
+    {
+      "name": "Tiktok",
+      "version": "16.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33d6ef304b013651d521482538d05d4f023efc4e/icon_tiktok.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.8.6.7/Tiktok.apk"
+    },
+    {
+      "name": "Spotify",
+      "version": "5.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/4346782479ee43c64e7104819c7bedeecdf665f9/icon_spotify.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.8.1.3/Spotify.apk"
+    },
+    {
+      "name": "DMSS",
+      "version": 41.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/01f18dd4b80b5eaff0bdcdeb940c633f95dcd456/icon_dmss.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V18.5.2/dmss.apk"
+    },
+    {
       "name": "VLC",
       "version": "3.0.4",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_vlc.png",

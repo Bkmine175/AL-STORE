@@ -105,7 +105,7 @@
        {
       "name": "Neo 4k Pro",
       "version": "3.8",
-      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.pngg",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2638/Neo4KPro.apk"
     },
     {
@@ -161,6 +161,18 @@
       "version": "3.0.1",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_orca.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.3/Orca.Pro+_3.0.1.0-plus_apkcombo.com.apk"
-    }
+    },
+    {
+      "name": "IPTV Smarters Pro",
+      "version": "5.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/908c42ddbc6cb87ba96f958dc70b2bdd79c17164/icon_iptvsmaterpro.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.7/iptv-smarters-pro-5-0.apk"
+    },
+      {
+      "name": "IRON TV MAX",
+      "version": "5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_ironmax.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/7.8.1/iron-tv-max.apk"
+      }
   ]
 } 

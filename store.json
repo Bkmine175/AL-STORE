@@ -62,15 +62,21 @@
     },
     {
       "name": "Micro G",
-      "version": "2.2.4",
+      "version": "0.3.13.2.250932",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/6666a96229a0686a12b58c235fe67c20fbafd35b/icon_MicroG.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.3.4/gms.apk"
     },
     {
       "name": "Maps",
-      "version": "26.1.5",
+      "version": "10.87",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/1bcea0f4ed6cad3278651edd2fc247b448a41c38/icon_maps.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.2.3.4.5/Maps.apk"
+    },
+    {
+      "name": "Maps new",
+      "version": "26.30",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/39d131998727a47e618f98cf4a45ea82712516ee/iconmapsnex.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6744/mp.apk"
     },
     {
       "name": "MAPS ME",

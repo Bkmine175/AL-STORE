@@ -90,6 +90,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/4e7e0f4ec2286e4503573fc2ec703755c6c01e22/incon_organicmaps.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.4.7/organicmaps.apk"
     },
+     {
+      "name": "Yandex Maps",
+      "version": "2.3.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/9280d83bcc060ac51bd452790de4964563ab32a6/icon_yandexmaps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6267394/yan.apk"
+    },
     {
       "name": "Volume booster",
       "version": "3.4.5",

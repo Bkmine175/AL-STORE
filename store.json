@@ -49,6 +49,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Radio_DAB.apk"
     },
     {
+      "name": "Gestionnaire de fichiers",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/05b5adefbe4754a5978637a8392e3cbffa1878df/icon_gestion.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V5367393/v123_sign.apk"
+    },
+    {
       "name": "YouTube Music",
       "version": "1.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/63dbe53b356daf0cbf227eef8e4ea77529a383ea/icon_YouTubeMusic_new.png",

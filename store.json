@@ -74,7 +74,7 @@
     },
     {
       "name": "YouTube",
-      "version": "1.2",
+      "version": "10.47",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
     },
@@ -113,6 +113,12 @@
       "version": "2.3.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/9280d83bcc060ac51bd452790de4964563ab32a6/icon_yandexmaps.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6267394/yan.apk"
+    },
+    {
+      "name": "mini Maps",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/54b88aa86b885ecbd8f58caf726fcd1219a28e3f/icon_minicarte.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637483939/minicarte.apk"
     },
     {
       "name": "Volume booster",

@@ -56,19 +56,19 @@
     },
       {
       "name": "Algérien Radio",
-      "version": 21.0",
+      "version": "21.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_radioalgerien.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/radio.apk"
     },
       {
       "name": "VRadio",
-      "version": 6.0",
+      "version": "6.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_vradio.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/VRadio.apk"
     },
     {
       "name": "Dab Radio",
-      "version": 4.1.0",
+      "version": "4.1.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/f8ae8e1dc4eff3d9f11485e407587b332970c05a/icon_dabradio.png",
       "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Radio_DAB.apk"
     },
@@ -176,7 +176,7 @@
     },
     {
       "name": "DMSS",
-      "version": 41.2.3",
+      "version": "41.2.3",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/01f18dd4b80b5eaff0bdcdeb940c633f95dcd456/icon_dmss.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V18.5.2/dmss.apk"
     },

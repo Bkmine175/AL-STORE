@@ -97,6 +97,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
     },
     {
+      "name": "SnapTube",
+      "version": "7.66.1.77",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_ssptube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
+    },
+    {
       "name": "Micro G",
       "version": "0.3.13.2.250932",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/6666a96229a0686a12b58c235fe67c20fbafd35b/icon_MicroG.png",
@@ -196,6 +202,18 @@
       "name": "Control vitres et toit",
       "version": "1.4",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_window.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83763738/window.apk"
+    },
+    {
+      "name": "Worms Zone",
+      "version": "6.29.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_wramzine.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7383929/WorsZne.apk"
+    },
+    {
+      "name": "Subway Surf",
+      "version": "3.68.6",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_sabwy.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83763738/window.apk"
     },
         {

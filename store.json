@@ -2,9 +2,9 @@
   "apps": [
     {
       "name": "Android Auto",
-      "version": "3.3.1",
+      "version": "3.0.4beta",
       "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7544788/aato3.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6362727/aaauto3.4.0-beta1.apk"
     },
     {
       "name": "Headunitroald Ru-version",

@@ -54,6 +54,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_quranwarch.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V764748/warshquran.apk"
     },
+    {
+      "name": "Ayah",
+      "version": "2.5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/2e10d15f1572c5cba27ea4bef9a7f1af4679edcb/icon_ayah.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6373883/ayah.apk"
+    },
       {
       "name": "Algérien Radio",
       "version": "21.0",

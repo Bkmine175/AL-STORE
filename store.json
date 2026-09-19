@@ -108,6 +108,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/5be25d4a53ccb8a2fc971b674867497846132195/icon_youtubebk.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V876568998/YouTubev1.apk"
     },
+     {
+      "name": "YouTube Premium",
+      "version": "21.36.45",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V739392002/ytube_Premium.apk"
+    },
     {
       "name": "SnapTube",
       "version": "7.66.1.77",

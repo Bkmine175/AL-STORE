@@ -1,9 +1,6 @@
 {
   "apps_names": [
     "Yacine TV",
-    "Spotify",
-    "DMSS",
-    "DMSS HD",
   ],
   "packages": [
     "com.yacine.tv",

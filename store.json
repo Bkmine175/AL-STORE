@@ -353,6 +353,18 @@
       "version": "1.4",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V727525261919/settingsapp.apk"
-      }
+      },
+    {
+      "name": "Repaire",
+      "version": "1.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/15db11e73979eeabc5348e01147e71a60fe0a50f/icon_reapaire.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V728292992/car.apk"
+    },
+    {
+      "name": "repaire1",
+      "version": "1.0.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/15db11e73979eeabc5348e01147e71a60fe0a50f/icon_repaire1.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V728291010/Gearv3.apk"
+    }
   ]
 } 

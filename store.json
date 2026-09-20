@@ -247,6 +247,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V738292992/angry.apk"
     },
     {
+      "name": "Black Shade",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/iconblackshade.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637282929/Black.Shade.apk"
+    },
+    {
       "name": "YacineTV Gold",
       "version": "4.1",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3a4d2164d0af72c1b980500aab4e295f044f089a/icon_yacinetvgold.png",
@@ -335,6 +341,18 @@
       "version": "5.5",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_ironmax.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/7.8.1/iron-tv-max.apk"
+      },
+      {
+      "name": "Setting",
+      "version": "adnroid9",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting9.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83826262719/settings.apk"
+      },
+      {
+      "name": "SETTING",
+      "version": "1.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V727525261919/settingsapp.apk"
       }
   ]
 } 

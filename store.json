@@ -175,6 +175,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637483939/minicarte.apk"
     },
     {
+      "name": "waze",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/835f413aac08388e90d6a5dbfc7c7d3f4c3b4d77/logo_waze.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637282992/WAZE.apk"
+    }, 
+    {
       "name": "Widget Maps",
       "version": "1.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/bab6b505af7bea67e965c33e2ff05f466677e9cd/icon_widgetnav.png",
@@ -216,6 +222,36 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_dezeer.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7474849/deezer.apk"
     },
+    {
+      "name": "Netflix",
+      "version": "8.0.48.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/835f413aac08388e90d6a5dbfc7c7d3f4c3b4d77/icon_netflix.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6282929/Netflix.apk"
+    },
+    {
+      "name": "Disney +",
+      "version": "8.0.48.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33a8a8bcf3d9588b6649d5da5410a5c743be677e/icone_disney.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7282929/Disney+.apk"
+    },
+    {
+      "name": "HBO max",
+      "version": "8.0.48.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33a8a8bcf3d9588b6649d5da5410a5c743be677e/icon_hbomax.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7282819/HBO.Max.apk"
+    },
+        {
+      "name": "Paramount+",
+      "version": "8.0.48.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33a8a8bcf3d9588b6649d5da5410a5c743be677e/icon_paramount.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V72828292973737/Paramount+.apk"
+    },
+        {
+      "name": "Prime Video",
+      "version": "8.0.48.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/9602d2d1f293590629624f4321ef1c31253a2b35/icon_primevideo.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V8292964791/Prime.Video.apk"
+    }, 
     {
       "name": "DMSS",
       "version": "41.2.3",

@@ -127,6 +127,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V739392002/ytube_Premium.apk"
     },
     {
+      "name": "Carstream",
+      "version": "21.36.45",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/36fac6ee6ec78dc5d3a5d33d9fa643a9834ccb79/icon_carsttream.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V82926272902/CarStream.apk"
+    },
+    {
       "name": "SnapTube",
       "version": "7.66.1.77",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_ssptube.png",
@@ -395,6 +401,18 @@
       "version": "5.5",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_ironmax.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/7.8.1/iron-tv-max.apk"
+      },
+    {
+      "name": "Xsuper",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/6637dd83c75671f9f7edbb2447e28e980190e39c/icon_xsuper.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7282992/XPR_oficial.1.apk"
+      },
+    {
+      "name": "Xsuper mod",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/6637dd83c75671f9f7edbb2447e28e980190e39c/icon_xsuper.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V929265201/Xuper_TV_Mod_emagoplay_07.junio.1.apk"
       },
       {
       "name": "Setting",

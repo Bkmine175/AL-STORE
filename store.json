@@ -313,6 +313,18 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637282929/Black.Shade.apk"
     },
     {
+      "name": "Chrome",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/f8e0251be6857404d7b0203212228c03778d4674/Icon_chrome.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7289292/com.android.chrome.apk"
+    },
+        {
+      "name": "Mozila",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/f8e0251be6857404d7b0203212228c03778d4674/icon_mozila.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V82661000176/mozila.1.apk"
+    },
+    {
       "name": "YacineTV Gold",
       "version": "4.1",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3a4d2164d0af72c1b980500aab4e295f044f089a/icon_yacinetvgold.png",

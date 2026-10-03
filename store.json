@@ -12,6 +12,18 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/3bacddf9d5005c318826c7a94b474d51d9f4f609/iconhezd.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V98544578/aaaAuto.apk"
     },
+    {
+      "name": "Diplay",
+      "version": "0.2.11",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e0cf4407cc7fdfcf3cf667e802d56ca0dfaa6e11/icon_dplay.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6281818/DiPlaysisubs.apk"
+    },
+    {
+      "name": "DiAuto",
+      "version": "0.3.11",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e0cf4407cc7fdfcf3cf667e802d56ca0dfaa6e11/icon_aplay.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6291927271910/DiyeueuAut.apk"
+    },
       {
       "name": "AutoKit",
       "version": "21.0",

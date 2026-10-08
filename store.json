@@ -13,6 +13,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V98544578/aaaAuto.apk"
     },
     {
+      "name": "carplay",
+      "version": "0.2.13",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e0cf4407cc7fdfcf3cf667e802d56ca0dfaa6e11/icon_dplay.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V727289292/carplay.apk"
+    },
+    {
       "name": "Diplay",
       "version": "0.2.14",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/e0cf4407cc7fdfcf3cf667e802d56ca0dfaa6e11/icon_dplay.png",

@@ -462,6 +462,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting9.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83826262719/settings.apk"
       },
+    {
+      "name": "cowboy",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/1fbc9bf046154af8f91472f8b87c0579ac0a0f1b/wind.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V73829299292/Gearv3cowboy.apk"
+    },
       {
       "name": "SETTING",
       "version": "1.4",

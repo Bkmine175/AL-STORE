@@ -61,6 +61,12 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V72738393993/kit.Intelligen.apk"
     },
     {
+      "name": "scanner only",
+      "version": "99",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/321638887f91ed71b5c96e36fbd74a5796c00ab7/icon_sc.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V82929292029/scaneronmy.apk"
+    },
+    {
       "name": "live wallpaper",
       "version": "5.7",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/908df3f84173dbb83840db8a3a90ea1ea47f3958/icon_wallapaperlive.png",

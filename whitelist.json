@@ -1,6 +1,8 @@
 {
   "apps_names": [
     "Yacine TV",
+    "TASKS",
+    "Tasks",
   ],
   "packages": [
     "com.yacine.tv",
@@ -9,6 +11,7 @@
     "com.livedrama.app",
     "app.revanced.android.apps.youtube.music",
     "com.geely.linkhmi",
+    "com.google.android.apps.tasks",
     "app.gold.android.youtube",
     "app.rvx.android.youtube",
     "com.kiloo.subwaysurf",

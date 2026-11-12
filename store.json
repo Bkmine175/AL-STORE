@@ -60,6 +60,12 @@
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/eeeac418580fd3daffa02ed01fba604aa1d7cc9a/ic_launcher_companion.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V738838383/Coolray.Companion_signed_sign.apk"
     },
+        {
+      "name": "Calvier Google",
+      "version": "1.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/d81db321317262d43118afd445900dbe6c4035aa/icon_gobored.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V627282892/gboardnew.apk"
+    }, 
     {
       "name": "kit Geely intelligent",
       "version": "1.3",
@@ -127,7 +133,7 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6382929/Gestionnv14.apk"
     },
     {
-      "name": "Ipkdashbored",
+      "name": "Ipk dashbored",
       "version": "1.2",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/32ec8305df6a2259d131f9ba5386a642ce34efff/icon_ipk.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V627288282/car+dash.apk"

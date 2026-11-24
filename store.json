@@ -85,16 +85,22 @@
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V628292939/Coolray_Hub.1.apk"
     },
     {
+      "name": "3D coolray",
+      "version": "1.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/47e9c21ebd540d938aec681726cf86f41680c152/icon_3Dcool.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83783839393/3D.Cool_sfixed_sign.apk"
+    },
+    {
       "name": "live wallpaper",
       "version": "5.7",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/908df3f84173dbb83840db8a3a90ea1ea47f3958/icon_wallapaperlive.png",
       "url": "https://github.com/Bkmine175/AL-STORE/releases/download/Vu7382929/Live.wallpaper_signed_sign.apk"
     },
     {
-      "name": "fix wallpaper",
+      "name": "fix System 3D ",
       "version": "1.0",
       "icon": "https://github.com/Bkmine175/AL-STORE/raw/908df3f84173dbb83840db8a3a90ea1ea47f3958/icon_wallpaperfix.png",
-      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/Vvusisisiis/Carfix.apk"
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V72828292/carfixtt.apk"
     },
     {
       "name": "Quran",
